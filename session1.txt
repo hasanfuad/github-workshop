@@ -1,3 +1,2 @@
 hello workshop!
-from scu
-session 2
+from sichuan university
