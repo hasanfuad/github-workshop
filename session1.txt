@@ -1,2 +1,2 @@
 hello workshop!
-from sichuan university
+from sichuan university.
